@@ -15,7 +15,7 @@
 		"width": 1000
 	}, {
 		"media": ">768",
-		"width": 800,
+		"width": 800
 	}, {
 		"media": ">577",
 		"width": 600
